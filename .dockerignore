@@ -5,9 +5,7 @@ __pycache__/
 .gitignore
 .idea/
 .vscode/
-
 output/
 data.log
-
 .env
 .env.docker
