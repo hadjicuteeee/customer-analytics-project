@@ -1,0 +1,201 @@
+product_id,product_name,category,price,stock_quantity
+PROD0001,Smartphone Pro (Basic),Electronics,40500.0,410
+PROD0002,Smartphone Pro (Pro),Electronics,60750.0,123
+PROD0003,Smartphone Pro (Ultra),Electronics,60750.0,123
+PROD0004,Smartphone Pro (Max),Electronics,60750.0,33
+PROD0005,Wireless Earbuds (Basic),Electronics,2699.1,228
+PROD0006,Wireless Earbuds (Pro),Electronics,4048.65,141
+PROD0007,Wireless Earbuds (Ultra),Electronics,4048.65,22
+PROD0008,Wireless Earbuds (Max),Electronics,4048.65,319
+PROD0009,Mechanical Keyboard (Basic),Electronics,3150.0,372
+PROD0010,Mechanical Keyboard (Pro),Electronics,4725.0,276
+PROD0011,Mechanical Keyboard (Ultra),Electronics,4725.0,22
+PROD0012,Mechanical Keyboard (Max),Electronics,4725.0,174
+PROD0013,27-inch Gaming Monitor (Basic),Electronics,13050.0,297
+PROD0014,27-inch Gaming Monitor (Pro),Electronics,19575.0,265
+PROD0015,27-inch Gaming Monitor (Ultra),Electronics,19575.0,255
+PROD0016,27-inch Gaming Monitor (Max),Electronics,19575.0,53
+PROD0017,Smart Watch Accent (Basic),Electronics,4860.0,440
+PROD0018,Smart Watch Accent (Pro),Electronics,7290.0,180
+PROD0019,Smart Watch Accent (Ultra),Electronics,7290.0,172
+PROD0020,Smart Watch Accent (Max),Electronics,7290.0,369
+PROD0021,Bluetooth Speaker Mini (Basic),Electronics,1350.0,188
+PROD0022,Bluetooth Speaker Mini (Pro),Electronics,2025.0,314
+PROD0023,Bluetooth Speaker Mini (Ultra),Electronics,2025.0,355
+PROD0024,Bluetooth Speaker Mini (Max),Electronics,2025.0,347
+PROD0025,Powerbank 20000mAh (Basic),Electronics,1080.0,410
+PROD0026,Powerbank 20000mAh (Pro),Electronics,1620.0,365
+PROD0027,Powerbank 20000mAh (Ultra),Electronics,1620.0,38
+PROD0028,Powerbank 20000mAh (Max),Electronics,1620.0,404
+PROD0029,Laptop Essential 15 (Basic),Electronics,28800.0,337
+PROD0030,Laptop Essential 15 (Pro),Electronics,43200.0,475
+PROD0031,Laptop Essential 15 (Ultra),Electronics,43200.0,208
+PROD0032,Laptop Essential 15 (Max),Electronics,43200.0,367
+PROD0033,HD Webcam (Basic),Electronics,1620.0,465
+PROD0034,HD Webcam (Pro),Electronics,2430.0,95
+PROD0035,HD Webcam (Ultra),Electronics,2430.0,409
+PROD0036,HD Webcam (Max),Electronics,2430.0,256
+PROD0037,Wireless Mouse (Basic),Electronics,765.0,281
+PROD0038,Wireless Mouse (Pro),Electronics,1147.5,255
+PROD0039,Wireless Mouse (Ultra),Electronics,1147.5,485
+PROD0040,Wireless Mouse (Max),Electronics,1147.5,322
+PROD0041,Classic Denim Jacket (Standard),Clothing,2249.1,36
+PROD0042,Classic Denim Jacket (Premium),Clothing,3373.65,97
+PROD0043,Classic Denim Jacket (Eco-Friendly),Clothing,2748.9,482
+PROD0044,Classic Denim Jacket (Deluxe),Clothing,3373.65,192
+PROD0045,Graphic Cotton Tee (Standard),Clothing,449.1,305
+PROD0046,Graphic Cotton Tee (Premium),Clothing,673.65,60
+PROD0047,Graphic Cotton Tee (Eco-Friendly),Clothing,548.9,362
+PROD0048,Graphic Cotton Tee (Deluxe),Clothing,673.65,87
+PROD0049,Slim Fit Chinos (Standard),Clothing,1169.1,18
+PROD0050,Slim Fit Chinos (Premium),Clothing,1753.65,375
+PROD0051,Slim Fit Chinos (Eco-Friendly),Clothing,1428.9,383
+PROD0052,Slim Fit Chinos (Deluxe),Clothing,1753.65,146
+PROD0053,Athletic Running Shorts (Standard),Clothing,719.1,498
+PROD0054,Athletic Running Shorts (Premium),Clothing,1078.65,209
+PROD0055,Athletic Running Shorts (Eco-Friendly),Clothing,878.9,498
+PROD0056,Athletic Running Shorts (Deluxe),Clothing,1078.65,130
+PROD0057,Summer Floral Dress (Standard),Clothing,899.1,249
+PROD0058,Summer Floral Dress (Premium),Clothing,1348.65,96
+PROD0059,Summer Floral Dress (Eco-Friendly),Clothing,1098.9,69
+PROD0060,Summer Floral Dress (Deluxe),Clothing,1348.65,221
+PROD0061,Hoodie Pullover (Standard),Clothing,1439.1,101
+PROD0062,Hoodie Pullover (Premium),Clothing,2158.65,463
+PROD0063,Hoodie Pullover (Eco-Friendly),Clothing,1758.9,380
+PROD0064,Hoodie Pullover (Deluxe),Clothing,2158.65,213
+PROD0065,Formal Button-Down Shirt (Standard),Clothing,1260.0,212
+PROD0066,Formal Button-Down Shirt (Premium),Clothing,1890.0,381
+PROD0067,Formal Button-Down Shirt (Eco-Friendly),Clothing,1540.0,21
+PROD0068,Formal Button-Down Shirt (Deluxe),Clothing,1890.0,120
+PROD0069,Ankle Socks 3-Pack (Standard),Clothing,269.1,84
+PROD0070,Ankle Socks 3-Pack (Premium),Clothing,403.65,107
+PROD0071,Ankle Socks 3-Pack (Eco-Friendly),Clothing,328.9,175
+PROD0072,Ankle Socks 3-Pack (Deluxe),Clothing,403.65,270
+PROD0073,Leather Belt Classic (Standard),Clothing,585.0,162
+PROD0074,Leather Belt Classic (Premium),Clothing,877.5,47
+PROD0075,Leather Belt Classic (Eco-Friendly),Clothing,715.0,284
+PROD0076,Leather Belt Classic (Deluxe),Clothing,877.5,417
+PROD0077,Knitted Beanie (Standard),Clothing,351.0,13
+PROD0078,Knitted Beanie (Premium),Clothing,526.5,99
+PROD0079,Knitted Beanie (Eco-Friendly),Clothing,429.0,328
+PROD0080,Knitted Beanie (Deluxe),Clothing,526.5,173
+PROD0081,Premium Arabica Coffee Beans 250g (Standard),Food,405.0,186
+PROD0082,Premium Arabica Coffee Beans 250g (Premium),Food,607.5,346
+PROD0083,Premium Arabica Coffee Beans 250g (Eco-Friendly),Food,495.0,327
+PROD0084,Premium Arabica Coffee Beans 250g (Deluxe),Food,607.5,311
+PROD0085,Organic Honey Jar (Standard),Food,315.0,300
+PROD0086,Organic Honey Jar (Premium),Food,472.5,497
+PROD0087,Organic Honey Jar (Eco-Friendly),Food,385.0,260
+PROD0088,Organic Honey Jar (Deluxe),Food,472.5,249
+PROD0089,Dark Chocolate Bar 70% (Standard),Food,162.0,404
+PROD0090,Dark Chocolate Bar 70% (Premium),Food,243.0,126
+PROD0091,Dark Chocolate Bar 70% (Eco-Friendly),Food,198.0,379
+PROD0092,Dark Chocolate Bar 70% (Deluxe),Food,243.0,243
+PROD0093,Roasted Almonds 500g (Standard),Food,495.0,479
+PROD0094,Roasted Almonds 500g (Premium),Food,742.5,417
+PROD0095,Roasted Almonds 500g (Eco-Friendly),Food,605.0,302
+PROD0096,Roasted Almonds 500g (Deluxe),Food,742.5,110
+PROD0097,Matcha Green Tea Powder (Standard),Food,540.0,318
+PROD0098,Matcha Green Tea Powder (Premium),Food,810.0,435
+PROD0099,Matcha Green Tea Powder (Eco-Friendly),Food,660.0,193
+PROD0100,Matcha Green Tea Powder (Deluxe),Food,810.0,260
+PROD0101,Dried Mangoes Premium 200g (Standard),Food,198.0,446
+PROD0102,Dried Mangoes Premium 200g (Premium),Food,297.0,306
+PROD0103,Dried Mangoes Premium 200g (Eco-Friendly),Food,242.0,171
+PROD0104,Dried Mangoes Premium 200g (Deluxe),Food,297.0,400
+PROD0105,Instant Ramen Variety Pack (Standard),Food,360.0,187
+PROD0106,Instant Ramen Variety Pack (Premium),Food,540.0,44
+PROD0107,Instant Ramen Variety Pack (Eco-Friendly),Food,440.0,298
+PROD0108,Instant Ramen Variety Pack (Deluxe),Food,540.0,339
+PROD0109,Whole Wheat Crackers (Standard),Food,108.0,427
+PROD0110,Whole Wheat Crackers (Premium),Food,162.0,84
+PROD0111,Whole Wheat Crackers (Eco-Friendly),Food,132.0,140
+PROD0112,Whole Wheat Crackers (Deluxe),Food,162.0,378
+PROD0113,Extra Virgin Olive Oil 500ml (Standard),Food,432.0,241
+PROD0114,Extra Virgin Olive Oil 500ml (Premium),Food,648.0,147
+PROD0115,Extra Virgin Olive Oil 500ml (Eco-Friendly),Food,528.0,359
+PROD0116,Extra Virgin Olive Oil 500ml (Deluxe),Food,648.0,53
+PROD0117,Rolled Oats 1kg (Standard),Food,252.0,47
+PROD0118,Rolled Oats 1kg (Premium),Food,378.0,42
+PROD0119,Rolled Oats 1kg (Eco-Friendly),Food,308.0,255
+PROD0120,Rolled Oats 1kg (Deluxe),Food,378.0,355
+PROD0121,Hydrating Hyaluronic Serum (Standard),Beauty,765.0,120
+PROD0122,Hydrating Hyaluronic Serum (Premium),Beauty,1147.5,210
+PROD0123,Hydrating Hyaluronic Serum (Eco-Friendly),Beauty,935.0,482
+PROD0124,Hydrating Hyaluronic Serum (Deluxe),Beauty,1147.5,243
+PROD0125,Matte Liquid Lipstick (Standard),Beauty,405.0,16
+PROD0126,Matte Liquid Lipstick (Premium),Beauty,607.5,121
+PROD0127,Matte Liquid Lipstick (Eco-Friendly),Beauty,495.0,373
+PROD0128,Matte Liquid Lipstick (Deluxe),Beauty,607.5,280
+PROD0129,Waterproof Mascara Black (Standard),Beauty,359.1,227
+PROD0130,Waterproof Mascara Black (Premium),Beauty,538.65,85
+PROD0131,Waterproof Mascara Black (Eco-Friendly),Beauty,438.9,191
+PROD0132,Waterproof Mascara Black (Deluxe),Beauty,538.65,211
+PROD0133,Sunscreen SPF50+ Gel (Standard),Beauty,531.0,500
+PROD0134,Sunscreen SPF50+ Gel (Premium),Beauty,796.5,344
+PROD0135,Sunscreen SPF50+ Gel (Eco-Friendly),Beauty,649.0,247
+PROD0136,Sunscreen SPF50+ Gel (Deluxe),Beauty,796.5,451
+PROD0137,Gentle Foaming Cleanser (Standard),Beauty,432.0,230
+PROD0138,Gentle Foaming Cleanser (Premium),Beauty,648.0,63
+PROD0139,Gentle Foaming Cleanser (Eco-Friendly),Beauty,528.0,62
+PROD0140,Gentle Foaming Cleanser (Deluxe),Beauty,648.0,92
+PROD0141,Clay Face Mask Purifying (Standard),Beauty,495.0,196
+PROD0142,Clay Face Mask Purifying (Premium),Beauty,742.5,495
+PROD0143,Clay Face Mask Purifying (Eco-Friendly),Beauty,605.0,294
+PROD0144,Clay Face Mask Purifying (Deluxe),Beauty,742.5,159
+PROD0145,Vitamin C Brightening Cream (Standard),Beauty,648.0,383
+PROD0146,Vitamin C Brightening Cream (Premium),Beauty,972.0,445
+PROD0147,Vitamin C Brightening Cream (Eco-Friendly),Beauty,792.0,92
+PROD0148,Vitamin C Brightening Cream (Deluxe),Beauty,972.0,115
+PROD0149,Argan Hair Oil Treatment (Standard),Beauty,585.0,116
+PROD0150,Argan Hair Oil Treatment (Premium),Beauty,877.5,25
+PROD0151,Argan Hair Oil Treatment (Eco-Friendly),Beauty,715.0,417
+PROD0152,Argan Hair Oil Treatment (Deluxe),Beauty,877.5,17
+PROD0153,Perfume Body Mist (Standard),Beauty,801.0,288
+PROD0154,Perfume Body Mist (Premium),Beauty,1201.5,31
+PROD0155,Perfume Body Mist (Eco-Friendly),Beauty,979.0,195
+PROD0156,Perfume Body Mist (Deluxe),Beauty,1201.5,213
+PROD0157,Natural Lip Balm (Standard),Beauty,135.0,499
+PROD0158,Natural Lip Balm (Premium),Beauty,202.5,137
+PROD0159,Natural Lip Balm (Eco-Friendly),Beauty,165.0,26
+PROD0160,Natural Lip Balm (Deluxe),Beauty,202.5,390
+PROD0161,Scented Soy Candle Lavender (Standard),Home,315.0,495
+PROD0162,Scented Soy Candle Lavender (Premium),Home,472.5,270
+PROD0163,Scented Soy Candle Lavender (Eco-Friendly),Home,385.0,368
+PROD0164,Scented Soy Candle Lavender (Deluxe),Home,472.5,84
+PROD0165,Ergonomic Desk Chair (Standard),Home,5220.0,305
+PROD0166,Ergonomic Desk Chair (Premium),Home,7830.0,95
+PROD0167,Ergonomic Desk Chair (Eco-Friendly),Home,6380.0,331
+PROD0168,Ergonomic Desk Chair (Deluxe),Home,7830.0,139
+PROD0169,LED Desk Lamp with USB (Standard),Home,1080.0,336
+PROD0170,LED Desk Lamp with USB (Premium),Home,1620.0,296
+PROD0171,LED Desk Lamp with USB (Eco-Friendly),Home,1320.0,81
+PROD0172,LED Desk Lamp with USB (Deluxe),Home,1620.0,271
+PROD0173,Stainless Steel Water Flask (Standard),Home,855.0,248
+PROD0174,Stainless Steel Water Flask (Premium),Home,1282.5,124
+PROD0175,Stainless Steel Water Flask (Eco-Friendly),Home,1045.0,475
+PROD0176,Stainless Steel Water Flask (Deluxe),Home,1282.5,439
+PROD0177,Microfiber Bed Sheets Queen (Standard),Home,1305.0,452
+PROD0178,Microfiber Bed Sheets Queen (Premium),Home,1957.5,97
+PROD0179,Microfiber Bed Sheets Queen (Eco-Friendly),Home,1595.0,419
+PROD0180,Microfiber Bed Sheets Queen (Deluxe),Home,1957.5,66
+PROD0181,Ceramic Coffee Mug Set (Standard),Home,585.0,30
+PROD0182,Ceramic Coffee Mug Set (Premium),Home,877.5,464
+PROD0183,Ceramic Coffee Mug Set (Eco-Friendly),Home,715.0,251
+PROD0184,Ceramic Coffee Mug Set (Deluxe),Home,877.5,359
+PROD0185,Non-Stick Frying Pan 24cm (Standard),Home,990.0,376
+PROD0186,Non-Stick Frying Pan 24cm (Premium),Home,1485.0,277
+PROD0187,Non-Stick Frying Pan 24cm (Eco-Friendly),Home,1210.0,278
+PROD0188,Non-Stick Frying Pan 24cm (Deluxe),Home,1485.0,113
+PROD0189,Storage Box Organizer (Standard),Home,225.0,52
+PROD0190,Storage Box Organizer (Premium),Home,337.5,97
+PROD0191,Storage Box Organizer (Eco-Friendly),Home,275.0,335
+PROD0192,Storage Box Organizer (Deluxe),Home,337.5,235
+PROD0193,Indoor Succulent Plant Pot (Standard),Home,162.0,127
+PROD0194,Indoor Succulent Plant Pot (Premium),Home,243.0,376
+PROD0195,Indoor Succulent Plant Pot (Eco-Friendly),Home,198.0,228
+PROD0196,Indoor Succulent Plant Pot (Deluxe),Home,243.0,190
+PROD0197,Digital Kitchen Scale (Standard),Home,315.0,400
+PROD0198,Digital Kitchen Scale (Premium),Home,472.5,480
+PROD0199,Digital Kitchen Scale (Eco-Friendly),Home,385.0,158
+PROD0200,Digital Kitchen Scale (Deluxe),Home,472.5,288
